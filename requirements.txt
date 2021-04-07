@@ -43,7 +43,7 @@ PyYAML==5.4
 requests==2.21.0
 Resource==0.2.1
 six==1.12.0
-SQLAlchemy==1.2.15
+SQLAlchemy==1.3.0
 stripe==2.21.0
 toml==0.10.0
 tox==3.7.0
